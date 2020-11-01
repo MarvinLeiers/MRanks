@@ -1,0 +1,9 @@
+name: MRanks
+version: ${project.version}
+main: de.marvinleiers.mranks.MRanks
+api-version: 1.16
+authors: [ Marvin_Leiers, Marvin2k0 ]
+website: www.marvinleiers.de
+
+commands:
+  mranks:
